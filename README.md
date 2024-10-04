@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi! I am MSc student at Universidad de Chile ☝️🤓<br>📷 Right now I am working on my thesis, which is OCC with event cameras<br>🐁 I am focused now on perfecting my C/C++ skills<br>🤡 I don't know what else should I say, I like languages<br>      -> Spanish (Native)<br>      -> English (C1)<br>      -> Russian (A2)<br>      -> Chinese (omw to HSK1)<br> -> I know a little bit of French but I didn't quite enjoy the teaching methodology, so I dropped it :/ 
+ Hi! I am MSc student at Universidad de Chile ☝️🤓<br>📷 Right now I am working on my thesis, which is OCC with event cameras<br>🐁 I am focused now on perfecting my C/C++ skills<br>🤡 I don't know what else I should say, I like languages<br>      -> Spanish (Native)<br>      -> English (C1)<br>      -> Russian (A2)<br>      -> Chinese (omw to HSK1)<br> -> I know a little bit of French but I didn't quite enjoy the teaching methodology, so I dropped it :/ 
 ***
 <div align="center">
   <img src="me.jpg" alt="A rendition of myself in my computer">
